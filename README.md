@@ -31,7 +31,7 @@ Os produtos ficam em um vetor de `struct Produto`, com uma variável `total` que
 
 ## Restrições do projeto
 
-O professor ainda não passou ponteiros, então o projeto usa apenas:
+Meu professor ainda não passou ponteiros, então o projeto usa apenas:
 
 - variáveis e entrada/saída
 - `if` / `switch`
@@ -113,9 +113,9 @@ controle-estoque/
 
 ## Status
 
-Recomeçando o projeto do zero, a partir da etapa 1.
+Começando o projeto do zero, a partir da etapa 1.
 
-- [ ] Etapa 1: menu
+- [X] Etapa 1: menu
 - [ ] Etapa 2: cadastro
 - [ ] Etapa 3: busca
 - [ ] Etapa 4: movimentação

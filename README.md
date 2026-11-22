@@ -1,4 +1,4 @@
-# Controle de Estoque de uma Lojinha
+# Controle de Estoque de uma Loja
 
 Programa de console em C para controlar o estoque de uma lojinha: cadastrar produtos, registrar entradas e saídas, buscar, remover e avisar quando o estoque está baixo. Os dados ficam salvos em arquivo de texto.
 

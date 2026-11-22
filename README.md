@@ -116,7 +116,7 @@ controle-estoque/
 Começando o projeto do zero, a partir da etapa 1.
 
 - [X] Etapa 1: menu
-- [ ] Etapa 2: cadastro
+- [X] Etapa 2: cadastro
 - [ ] Etapa 3: busca
 - [ ] Etapa 4: movimentação
 - [ ] Etapa 5: remover
